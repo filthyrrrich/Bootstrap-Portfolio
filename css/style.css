@@ -1,0 +1,117 @@
+body {
+    background-image: url(/Users/richschiffer/Desktop/code/Bootstrap-Portfolio/images/spiration-light.png); 
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}
+
+form {
+    border: 1px solid #cccccc;
+    padding: 20px;
+    margin-top: 50px;
+    background-color: #ffffff;
+}
+
+hr {
+    padding-bottom: 20px;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+.nav-item {
+    border-right: solid 1px #cccccc;
+}
+
+section { 
+    border: 1px solid #cccccc;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    padding: 20px;
+    background-color: #ffffff;
+}
+.navbar {
+    border-bottom: solid 2px;
+    border-color: #cccccc;
+    padding: 0;
+    background: #ffffff;
+}
+
+a {
+    color: #cccccc;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    padding-bottom: 20px;
+    text-align: left;
+}
+
+.img-fluid {
+    padding-bottom: 20px;
+    float: left;   
+}
+
+section.connectme {
+    padding: 10px;
+    text-align: center;
+}
+
+i {
+    width: 80px;
+    margin: 5px;
+    font-size: 80px;
+}
+
+.pimg {
+    margin: 20px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    padding-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    font-size: 18px;
+}
+
+.imgtag {
+    margin-left: 20px;
+    bottom: 30px;
+    text-align: center;
+    width: 200px;
+    padding: 5px;
+    background: #4aaaa5;
+    color: #ffffff;
+    position: absolute;
+}
+
+a.linkd {
+    color: blue;
+}
+
+a.sover {
+    color: orange;
+}
+
+a.insta, a.gsquare {
+    color: black;
+}
+
+.footer-copyright {
+    border-top: solid;
+    border-top-width: 5px;
+    border-top-color: #4aaaa5;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    margin-top: 50px;
+    color: #cccccc;
+    background-color: #777777;
+}
