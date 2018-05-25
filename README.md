@@ -1,1 +1,2 @@
 # Bootstrap-Portfolio
+This assignment was fairly easy once I got the basics of bootstrap down. I spent about 6hrs on it. Bootstrap definitly cuts out alot of time dealing with layouts and sizing (which feels like biggest timesink for me). Excited to see future implementations and improve my overall skill with bootstrap. 
